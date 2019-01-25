@@ -38,7 +38,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://samcentral.tech",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/samcentral-icon-black-128x80.png",
     "noImageResize": "",
     "sitemapSwitcher": "on"
   },
